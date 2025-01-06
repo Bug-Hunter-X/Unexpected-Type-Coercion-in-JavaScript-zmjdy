@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript related to type coercion. The `foo` function adds a number and a string, resulting in string concatenation.  The `bug.js` file contains the buggy code, while `bugSolution.js` provides a corrected version that uses strict type checking or explicit type conversion to avoid this issue. 
